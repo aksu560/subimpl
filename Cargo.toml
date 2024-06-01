@@ -1,6 +1,6 @@
 [package]
 name = "subimpl"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A procedural macro that generates all the implementations of a type for a struct containing a field of that type."
 license = "MIT"
